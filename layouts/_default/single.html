@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<article>
+
+    <h1>{{ .Title }}</h1>
+
+    {{ with .Params.author }}
+    <p class="author">By {{ . }}</p>
+    {{ end }}
+
+    <div class="article">
+        {{ .Content }}
+    </div>
+
+</article>
+
+{{ end }}

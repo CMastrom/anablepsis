@@ -1,0 +1,77 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px 20px;
+
+    color: #222;
+    background: #fff;
+
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.65;
+}
+
+header {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 40px;
+    padding-bottom: 12px;
+}
+
+.site-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.site-title a {
+    color: #111;
+    text-decoration: none;
+}
+
+nav {
+    margin-top: 8px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+a {
+    color: #174a7e;
+}
+
+h1 {
+    line-height: 1.2;
+}
+
+h2 {
+    margin-top: 2em;
+}
+
+.author {
+    color: #666;
+    font-style: italic;
+}
+
+.article {
+    max-width: 720px;
+}
+
+.article-list {
+    padding-left: 20px;
+}
+
+.article-list li {
+    margin-bottom: 10px;
+}
+
+.article-list span {
+    color: #777;
+    margin-left: 10px;
+}
+
+footer {
+    border-top: 1px solid #aaa;
+    margin-top: 60px;
+    padding-top: 15px;
+    color: #777;
+    font-size: 0.9rem;
+}

@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<p>
+	Just as the light illuminates the eye to see, so, too, does goodness illuminate the intellect to know. (The Republic, Book VI).
+</p>
+
+<h2>Recent Articles</h2>
+
+<ul class="article-list">
+    {{ range where site.RegularPages "Type" "posts" }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+    </li>
+    {{ end }}
+</ul>
+
+{{ end }}
