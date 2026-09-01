@@ -8,7 +8,7 @@ topics:
 draft: false
 ---
 
-Aristotle's doctrine of the four causes provides an account of the
+See this [Substance]({{< ref "/definitions/substance" >}}). ]Aristotle's doctrine of the four causes provides an account of the
 different ways in which something can be explained.
 
 ## The Material Cause
