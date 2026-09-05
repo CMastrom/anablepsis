@@ -4,6 +4,3 @@ title = 'Anablepsis'
 
 [params]
   description = 'Luke 4:18'
-
-[permalinks]
-  posts = '/:slug/'

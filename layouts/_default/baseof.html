@@ -16,16 +16,21 @@
 
 <body>
 
-<header>
-    <div class="site-title">
-        <a href="/">{{ site.Title }}</a>
-    </div>
-
-    <nav>
-        <a href="/">Home</a>
-        <a href="/posts/">Articles</a>
-    </nav>
-</header>
+    <header>
+        <div class="site-title">
+            <a href="/">{{ site.Title }}</a>
+        </div>
+    
+        <nav>
+            <a href="/">Home</a>
+            <a href="/posts/">Articles</a>
+            <a href="/definitions/">Definitions</a>
+        </nav>
+    
+        <a class="trinity-icon" href="/" aria-label="The Holy Trinity" title="The Holy Trinity">
+            <img src="/images/shield.svg" alt="">
+        </a>
+    </header>
 
 <main>
     {{ block "main" . }}{{ end }}
