@@ -31,7 +31,7 @@ The *Ipsum Ens Subsistens* can be a daunting and perplexing concept to apprehend
 **P18:** [Goodness](/definitions/goodness) is the equality of a being’s essence and esse: it is unity between intelligibility and existence.  
 **P19:** This essent must be identical in essence esse [P9], so He must be perfectly good.  
 **P20:** The cause must be in someway in the effect (i.e., [principle of proportionate causality](/definitions/principle-of-proportionate-causality)).  
-**P21:** This essent ultimately causes everything else [P13] but has no parts, so He can only be proportionately in His effects by way of their [forms](/definitions/form) (see "[what is proportionate in the effect from this Cause?]"(/posts/proportionate-in-effect-from-the-essent)).  
+**P21:** This essent ultimately causes everything else [P13] but has no parts, so He can only be proportionately in His effects by way of their [forms](/definitions/form) (see "[what is proportionate in the effect from this Cause?](/posts/proportionate-in-effect-from-the-essent")).  
 **P22:** The only kind of entity that can cause intelligibility to be instantiated in existence is a cause that can apprehend essences to create a form and the only kind of being that can apprehend essences is an intellect.  
 **P23:** This essent must be an intellect [P21 & P22].  
 **P24:** This essent has no parts [P5], so pure act of intellect must be identical to pure [act](/definitions/act).  
@@ -57,4 +57,8 @@ The only object which He must think of as real that is already real is Himself; 
 
 At this point, we can deduce God is all-[loving](/definitions/love) in the sense of necessarily willing the good of what He wills as real; exactly because He wills the object of His thought as with existence, which confers that existence to it, in perfect understand of its essence, with no external impediment, and this necessarily realizes and wills what is good for that particular existent relative to their essence (and nature). This act of creation is done without benefit to God (because He is changeless as pure act) and for the sake of the creature insofar as He actively supports their existence through time. 
 
-In the Trinity, we see that processions cause a perfect and supreme love of Himself towards Himself which [spirates](/definitions/spiration) a third Person. This necessitates that the Father, through the Son, causes out of love for the Son; which entails that every creature He creates is done with a selfless and supreme love for His own Nature as perfect. Thusly, He also is Love itself (as opposed to being loving) since this pure act is identical to Himself; and of which causes Him to order every creature's nature towards His own. 
+In [the Trinity](/posts/the-trinity), we see that processions cause a perfect and supreme love of Himself towards Himself which [spirates](/definitions/spiration) a third Person. This necessitates that the Father, through the Son, causes out of love for the Son; which entails that every creature He creates is done with a selfless and supreme love for His own Nature as perfect. Thusly, He also is Love itself (as opposed to being loving) since this pure act is identical to Himself; and of which causes Him to order every creature's nature towards His own. 
+
+## Gradations of Existence
+
+Since absolute self-unity is perfection, God is uniquely the most good and His perfection is unbounded. Each creature's nature resembles what is perfect more or less; and in this way they have more or less existence relative to how close they are to subsistent existence itself. Thusly, every creature is more or less real; and God is the realest. 
