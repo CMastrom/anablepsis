@@ -1,6 +1,6 @@
 ---
 title: "Ontological Dividuation"
-date: 2026-09-01
+date: 2026-10-31
 author: "The Eudemian"
 draft: false
 ---
@@ -73,4 +73,18 @@ From this, we can note some important things.
 
 3. Material existents can only be different in form/substance, parts, or matter. E.g., Socrates is not this cat because he has a different form; Socrates is not Plato because he is in differing matter; and the car cannot be this tree because it lacks organic parts.
 
-4. Two instances of the Divine Substance could not coexist because they do not differ in form, parts, or matter. Only a differentiation in supposita would be possible.
+## Dividuation in the God
+
+Could two [essents](/definitions/an-essent) coexist? They could *only if* some principle of dividuation applies to them. 
+
+1. A formal distinction between them could not apply because the type of form is the same (e.g., two instances of a human man have the same type of male form, so that does not itself dividuate them). 
+
+2. A difference in matter would be impossible because matter is that which receives form, which would imply at least two parts in an essent; namely, form and matter. Likewise, an essent having matter would imply a sense of [prime matter](/posts/prime-matter), which is also impossible. 
+
+3. A difference in suppositum would be possible because it does not divvy up the Substance but, rather, implies more than one completion of that same Substance. 
+
+4. A difference in parts would be impossible because an essent cannot have parts; otherwise, it would be dependent on those parts for its existence. 
+
+Thusly, there cannot be anything about two essents that would distinguish them in Substance. 
+
+Another way of thinking about it is that two essents would be identical to pure existence itself, which means neither have anything about them which *has* existence which could possibly distinguish them. Thusly, that which they are would not be a possible avenue of dividuation; however, someone could attempt to posit an externalized relation between them (e.g., two identical items being distinct only by way of a spatial relation). The issue is that a relation (1) can be between the same entity and itself (and thusly does not imply dividuation intrinsically) and (2) it requires imposition of the relation onto the entity (or entities) via act. As noted before, an [essent](/definitions/an-essent) is purely [actual](/definitions/act); that is, it is fully realized at what it is, always, as pure and simple existence itself existing. As pure act, it cannot have passive [potency](/definitions/potency); for lacks nothing which could be actualized in it. Now, one could object: couldn't there be a creature which is perfect as that creature but yet would still have passive potency? If so, then how does the mere full realization of one's nature imply pure actuality? It is true that the full realization of a creature's nature does not imply pure actuality; but it does in God: a creature lacks something even when 'perfect', which is having intrinisic existence *but God lacks nothing--not even intrinisic existence*. He alone is truly perfect; and as *uniquely* perfectly realized, He cannot be actualized further by any act. Viz., He is immune to any act upon Him. If a relation were to dividuate two Subtances of essents, then it would have to be capable of acting upon the two (or more) essents to subjugate them to the relation; but nothing can act upon them, so a relation could not dividuate them.
