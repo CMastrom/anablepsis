@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-That which [existentially confers]().
+That which [existentially confers](/definitions/existential-conferment).

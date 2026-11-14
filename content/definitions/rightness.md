@@ -5,6 +5,6 @@ author: "The Eudemian"
 draft: false
 ---
 
-The property of being a [good]() that is only attributable to a deliberate act: a good behavior.
+The property of being a good that is only attributable to a deliberate act: a good behavior.
 
-Compare to [badness](), [goodness](), [evil](), and [wrongness]().
+Compare to [badness](/definitions/badness), [goodness](/definitions/goodness), [evil](/definitions/evil), and [wrongness](/definitions/wrongness).

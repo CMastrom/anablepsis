@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-A [suppositum]() of a [substance]() of a rational [nature]().
+A [suppositum](/definitions/a-suppositum) of a [substance](/definitions/substance) of a rational [nature](/definitions/nature).

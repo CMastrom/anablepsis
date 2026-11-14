@@ -5,8 +5,8 @@ author: "The Eudemian"
 draft: false
 ---
 
-That which can receive [form]().
+That which can receive [form](/definitions/form).
 
-This Aristotelian sense of 'matter' is not to be confused with the scientific sense of 'having mass': matter, in this sense, is the kind of stuff which has existence as what receives act. It is not a nothingness that receives; nor is it fully real in-itself like a [substance](). 
+This Aristotelian sense of 'matter' is not to be confused with the scientific sense of 'having mass': matter, in this sense, is the kind of stuff which has existence as what receives act. It is not a nothingness that receives; nor is it fully real in-itself like a [substance](/definitions/substance). 
 
-Contrast with [form]().
+Contrast with [form](/definitions/form).

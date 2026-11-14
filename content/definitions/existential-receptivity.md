@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-That which receives the [existence]().
+That which receives the [existence](/definitions/existence).

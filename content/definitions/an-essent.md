@@ -5,6 +5,6 @@ author: "The Eudemian"
 draft: false
 ---
 
-An entity which has its existence intrinsically to its [nature](); and consequently must be existence itself taken as an entity.
+An entity which has its existence intrinsically to its [nature](/definitions/nature); and consequently must be existence itself taken as an entity.
 
 E.g., God.

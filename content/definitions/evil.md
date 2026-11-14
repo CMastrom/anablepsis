@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-[Badness]().
+[Badness](/definitions/badness).

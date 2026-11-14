@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-A [generation]() which does not have as its object of [existential receptivity]() the being produced.
+A [generation](/definitions/generation) which does not have as its object of [existential receptivity](/definitions/existential-receptivity) the being produced.

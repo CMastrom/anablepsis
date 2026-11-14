@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-A self-actualizing principle: the actualizing principle in virtue of which an [entity]() is alive.
+A self-actualizing principle: the actualizing principle in virtue of which an [entity](/definitions/an-entity) is alive.

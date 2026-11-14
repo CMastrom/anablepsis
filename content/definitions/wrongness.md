@@ -5,6 +5,6 @@ author: "The Eudemian"
 draft: false
 ---
 
-The property of being [bad]() that is attributable solely to a deliberate act: a bad behavior.
+The property of being bad that is attributable solely to a deliberate act: a bad behavior.
 
-Compare to [badness](), [rightness](), [evil](), and [goodness]().
+Compare to [badness](/definitions/badness), [rightness](/definitions/rightness), [evil](/definitions/evil), and [goodness](/definitions/goodness).

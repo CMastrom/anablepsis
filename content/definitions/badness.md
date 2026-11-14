@@ -5,6 +5,6 @@ author: "The Eudemian"
 draft: false
 ---
 
-The disparity between a being's [essence]() and [existence]() (viz., [esse]()); or anything related to such an improper relation.
+The disparity between a being's [essence](/definitions/essence) and [existence](/definitions/existence) (viz., [esse](/definitions/esse)); or anything related to such an improper relation.
 
-Compare to [goodness](), [rightness](), [evil](), and [wrongness]().
+Compare to [goodness](/definitions/goodness), [rightness](/definitions/rightness), [evil](/definitions/evil), and [wrongness](/definitions/wrongness).

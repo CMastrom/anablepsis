@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-[Existence](), especially contrasted to [essence]().
+[Existence](/definitions/existence), especially contrasted to [essence](/definitions/essence).

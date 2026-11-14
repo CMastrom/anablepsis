@@ -11,4 +11,4 @@ For example, the wheels of a car contribute to the whole car as what it is compr
 
 This also applies to all metaphysical parts—not just material parts. E.g., the apple was a part of my dream I had; the words are part of the sentence; the tree's form is a part of its existence; the frequency is a part of a wave; etc.
 
-Contrast with [a relation]().
+Contrast with [a relation](/definitions/a-relation).
