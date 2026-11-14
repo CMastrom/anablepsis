@@ -9,29 +9,29 @@ God is not a highly complex and eternal mind which resides outside of space and 
 
 The *Ipsum Ens Subsistens* can be a daunting and perplexing concept to apprehend, but it is the simple truth about God which makes everything else about Him fall into place. 
 
-## His Existence: A Proof From Composition  
+## His Existence: A Proof From Contingency
 
-**P1:** A [part](/definitions/a-part) is ‘that which contributes to the whole but is not identical to it’.  
-**P2:** Reality is either an infinite causality of composed [entities](/definitions/an-entity) or it has at least one uncomposed entity.  
-**P3:** Reality being only an infinite causality of composed entities would be impossible because they all lack intrinsic [existence](/definitions/existence) and yet they exist (just like how an infinite chain of electric ovens cannot themselves explain how one of the ovens has electricity even if electricity is conferred between them infinitely).  
-**P4:** There must be at least one uncomposed entity [P1 & P2].  
-**P5:** An uncomposed entity would have no parts (by definition).  
-**P6:** Two entities with no parts are ontologically indistinguishable (see "[Ontological Dividuation](/posts/ontological-dividuation)").  
-**P7:** Two entities with no parts cannot coexist [P4 & P5].  
-**P8:** There must be only one uncomposed entity [P3 & P6].  
-**P9:** An uncomposed entity would have to be existence taken as an entity (viz., an [essent](/definitions/an-essent)): otherwise, it has at least two parts—namely, His [essence](/definitions/essence) and [esse](/definitions/esse).   
+**P1:** Reality is either an infinite causality of [entities](/definitions/an-entity) which get their existence intrinsically (i.e., an [existent](/definitions/an-existent)) or extrinsically (i.e., an [essent](/definitions/an-essent)).  
+**P2:** Reality being only an infinite causality of existents would be impossible because they all lack intrinsic [existence](/definitions/existence) and yet they exist (just like how an infinite chain of electric ovens cannot themselves explain how one of the ovens has electricity even if electricity is conferred between them infinitely).  
+**P3:** There must be at least one essent.  
+**P4:** An entity with parts gets existence in some dependent fashion from those parts.
+**P5:** An essent, then, cannot have parts; making it absolutely simple [P1 & P4]. 
+**P6:** Two essents are ontologically indistinguishable (see "[Ontological Dividuation](/posts/ontological-dividuation)").  
+**P7:** Two essents cannot coexist.  
+**P8:** There must be only one essent.  
+**P9:** An essent would have to be existence taken as an entity: otherwise, it has at least two parts—namely, His [essence](/definitions/essence) and [esse](/definitions/esse).   
 **P10:** [Change](/definitions/change) is the actualization of a potential (e.g., the coffee’s potential to be hot is actualized by heating it up in the microwave).  
 **P11:** To have real potential, an entity must have parts which can be affected.  
-**P12:** This essent has no parts (because He is uncomposed).  
-**P13:** This essent cannot change [P10-12]: He must be immutable, eternal, aspatial, and the ultimate cause of every other being.  
+**P12:** This essent has no parts [P5].  
+**P13:** This essent cannot change: He must be immutable, eternal, aspatial, and the ultimate cause of every other being.  
 **P14:** [Power](/definitions/power) is the ability to cause change.  
-**P15:** Since this essent is the ultimate cause of all other beings and cannot be changed, He must be the only entity with intrinsic power [P14 & P13].  
+**P15:** Since this essent is the ultimate cause of all other beings and cannot be changed, He must be the only entity with intrinsic power.  
 **P16:** To be omnipotent is to have intrinsic power.  
 **P17:** Since an essent has no parts [P5], He has intrinsic power, and to be omnipotent is to have intrinsic power; an essent must be identical to pure power itself (and not merely have it).  
 **P18:** [Goodness](/definitions/goodness) is the equality of a being’s essence and esse: it is unity between intelligibility and existence.  
 **P19:** This essent must be identical in essence esse [P9], so He must be perfectly good.  
 **P20:** The cause must be in someway in the effect (i.e., [principle of proportionate causality](/definitions/principle-of-proportionate-causality)).  
-**P21:** This essent ultimately causes everything else [P13] but has no parts, so He can only be proportionately in His effects by way of their [forms](/definitions/form) (see "[what is proportionate in the effect from this Cause?](/posts/proportionate-in-effect-from-the-essent")).  
+**P21:** This essent ultimately causes everything else [P15] but has no parts, so He can only be proportionately in His effects by way of their [forms](/definitions/form) (see "[what is proportionate in the effect from this Cause?](/posts/proportionate-in-effect-from-the-essent")).  
 **P22:** The only kind of entity that can cause intelligibility to be instantiated in existence is a cause that can apprehend essences to create a form and the only kind of being that can apprehend essences is an intellect.  
 **P23:** This essent must be an intellect [P21 & P22].  
 **P24:** This essent has no parts [P5], so pure act of intellect must be identical to pure [act](/definitions/act).  
@@ -40,7 +40,7 @@ The *Ipsum Ens Subsistens* can be a daunting and perplexing concept to apprehend
 **P26:** To be omniscient is to have complete knowledge.  
 **P27:** This essent must be identical to pure and complete knowing (i.e., omniscience).  
 **P28:** An intellect always wills what He believes is good.  
-**P29:** Everything this essent believes is good must be good (since He has perfect knowledge) .  
+**P29:** Everything this essent believes is good must be good (since He has perfect knowledge).  
 **P30:** Everything this essent intellectually wills must always be what is good [P26-28] (see "[To Will What is Best](/posts/to-will-what-is-best)").  
 **P31:** To be omnibenevolent is to will what is good always.  
 **P32:** Since an essent has no parts [P5], He must be identical to the pure act of willing what is good (i.e., omnibenevolence).  
