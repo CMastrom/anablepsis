@@ -14,8 +14,8 @@ The *Ipsum Ens Subsistens* can be a daunting and perplexing concept to apprehend
 **P1:** Reality is either an infinite causality of [entities](/definitions/an-entity) which get their existence intrinsically (i.e., an [existent](/definitions/an-existent)) or extrinsically (i.e., an [essent](/definitions/an-essent)).  
 **P2:** Reality being only an infinite causality of existents would be impossible because they all lack intrinsic [existence](/definitions/existence) and yet they exist (just like how an infinite chain of electric ovens cannot themselves explain how one of the ovens has electricity even if electricity is conferred between them infinitely).  
 **P3:** There must be at least one essent.  
-**P4:** An entity with parts gets existence in some dependent fashion from those parts.
-**P5:** An essent, then, cannot have parts; making it absolutely simple [P1 & P4]. 
+**P4:** An entity with parts gets existence in some dependent fashion from those parts.  
+**P5:** An essent, then, cannot have parts; making it absolutely simple [P1 & P4].  
 **P6:** Two essents are ontologically indistinguishable (see "[Ontological Dividuation](/posts/ontological-dividuation)").  
 **P7:** Two essents cannot coexist.  
 **P8:** There must be only one essent.  
