@@ -47,9 +47,9 @@ The *Ipsum Ens Subsistens* can be a daunting and perplexing concept to apprehend
   
 **C**: This absolutely simple essent must be identical to pure act of intellect, pure act of good will, perfect goodness, pure actuality, pure power, absolutely unique, immutable, eternal, non-corporeal, and the active cause of existence for all [existents](/definitions/an-existent): this is God.
 
-## His Power of Existential Confernment
+## His Power of Existential confermnet
 
-Since He is absolutely simple and pure act of thought and pure act, it follows that His ability to [confer existence](/definitions/existential-confernment) must be identical to Him thinking of His object of thought within the modality of reality. His pure act is His ability to confer existence, but that is the same as Him thinking. Now, we either have an [emanation](/definitions/emanation) in God where Him merely necessarily thinking of every *possible* object confers existence; or His thinking of them as real does. Thinking of an object as possible or even no real (but hypothetical) would be identical to Him as willing it as possible; which would not will it as real. Thusly, Him thinking of it as real is what wills it as real (which confers existence as pure act).
+Since He is absolutely simple and pure act of thought and pure act, it follows that His ability to [confer existence](/definitions/existential-confermnet) must be identical to Him thinking of His object of thought within the modality of reality. His pure act is His ability to confer existence, but that is the same as Him thinking. Now, we either have an [emanation](/definitions/emanation) in God where Him merely necessarily thinking of every *possible* object confers existence; or His thinking of them as real does. Thinking of an object as possible or even no real (but hypothetical) would be identical to Him as willing it as possible; which would not will it as real. Thusly, Him thinking of it as real is what wills it as real (which confers existence as pure act).
 
 The only object which He must think of as real that is already real is Himself; and this becomes very important for "[the Trinity](/posts/the-trinity)".
 

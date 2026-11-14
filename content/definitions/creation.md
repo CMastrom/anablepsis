@@ -5,6 +5,6 @@ author: "The Eudemian"
 draft: false
 ---
 
-The [existential confernment]() of an [entity]() *ex nihilo*. 
+The [existential confermnet]() of an [entity]() *ex nihilo*. 
 
 Compare with a [generation]() and [spiration]().
