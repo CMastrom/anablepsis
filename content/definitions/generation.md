@@ -5,4 +5,4 @@ author: "The Eudemian"
 draft: false
 ---
 
-An [existential confermnet]() which does not give rise to something new in [substance]: the reception of [existence]() from an already fully actualized [entity]().
+An [existential conferment]() which does not give rise to something new in [substance]: the reception of [existence]() from an already fully actualized [entity]().

@@ -49,11 +49,11 @@ We can deduce the Trinity from [Classical Theism](/posts/classical-theism):
 **P2:** A person is the completion of a substance of a rational nature.  
 **P3:** Therefore God is a Person.  
 **P4:** His omniscience implies He must know Himself as real.  
-**P5:** Since He is absolutely simple, His power to [existentially confer](/definitions/existential-confermnet) must be identical to His power to think of an object of thought as real (re: "[Divine Simplicity, Omniscience, and Pure Act](/posts/divine-simplicity-and-omniscience-in-pure-act)").  
-**P6:** Therefore, His self-knowledge must cause an existential confermnet between Himself and Himself.  
+**P5:** Since He is absolutely simple, His power to [existentially confer](/definitions/existential-conferment) must be identical to His power to think of an object of thought as real (re: "[Divine Simplicity, Omniscience, and Pure Act](/posts/divine-simplicity-and-omniscience-in-pure-act)").  
+**P6:** Therefore, His self-knowledge must cause an existential conferment between Himself and Himself.  
 **P7:** This relation of Knower and Known is a *real* relation because it confers existence from Himself to Himself.  
-**P8:** This existence causes no [change](/definitions/change) in Himself because He has no [passive potency](/defintions/potency) but is really received by Himself through [existential absorption](/definition/existential-absorption) (re: "[Existential confermnet and Passive Potency](/posts/existential-confermnet-and-passive-potency)").  
-**P9:** The act of taking Himself as His own subject must simultaneously be of His pre-existing suppositum and cause the confermnet of existence to that subject which cannot be absorbed (re: "[The Subject of Thought](/posts/the-subject-of-thought)" & "[Ontological Dividuation](/posts/ontological-dividuation)").  
+**P8:** This existence causes no [change](/definitions/change) in Himself because He has no [passive potency](/defintions/potency) but is really received by Himself through [existential absorption](/definition/existential-absorption) (re: "[Existential conferment and Passive Potency](/posts/existential-conferment-and-passive-potency)").  
+**P9:** The act of taking Himself as His own subject must simultaneously be of His pre-existing suppositum and cause the conferment of existence to that subject which cannot be absorbed (re: "[The Subject of Thought](/posts/the-subject-of-thought)" & "[Ontological Dividuation](/posts/ontological-dividuation)").  
 **P10:** Therefore, this real relation between God must cause another suppositum to complete the same concrete Substance.  
 **P11:** This second suppositum must be a Person (from **P2**).  
 **P12:** The first Person which is the Knower (Giver) is the one with paternity and the Known (Given) is the one with filiation.  
@@ -67,9 +67,9 @@ We can deduce the Trinity from [Classical Theism](/posts/classical-theism):
 **P20:** To will Himself as perfect without the possibility of changing Himself is to [love](/definitions/love) Himself perfectly by definition.  
 **P21:** To will Himself as perfect is to will the reality of Himself as perfectly unified (re: "[The Relation Between Love and Existence](/posts/love-and-existence)").  
 **P22:** His willing of reality of Himself is identical to Him thinking of Himself as real (for the same reasons outlined in for **P5** in "[Divine Simplicity, Omniscience, and Pure Act](/posts/divine-simplicity-and-omniscience-in-pure-act)" but for His willing faculties).  
-**P23:** His thinking of Himself as real causes an existential confermnet (for the same reasons as **P5-P8**).  
-**P24:** This existential confermnet causes a third Person (for the same reasons as **P9-P11**).  
-**P25:** This existential confermnet, though, is from the Father thinking of the Son as perfect; so this is not a new object of thought of Himself in His contemplation.  
+**P23:** His thinking of Himself as real causes an existential conferment (for the same reasons as **P5-P8**).  
+**P24:** This existential conferment causes a third Person (for the same reasons as **P9-P11**).  
+**P25:** This existential conferment, though, is from the Father thinking of the Son as perfect; so this is not a new object of thought of Himself in His contemplation.  
 **P26:** Therefore, this is a [spiration](/definitions/spiration) as opposed to a [generation](/definitions/generation).  
 **P27:** This spiration is between the Father and Son as self-love, and is identified as the relation between the Father loving the Son and the Son as loved: this Person which arises out of perfect love is the Holy Spirit.  
 **P28:** Because the mechanism by which the Persons are caused is by self-knowledge and there is nothing else about the Divine Substance to be known (re: "[Divine Self-knowledge](divine-self-knowledge)"), it follows that only these three Persons exist in God.  
@@ -78,17 +78,17 @@ We can deduce the Trinity from [Classical Theism](/posts/classical-theism):
 
 ### The Tension Between Pure Act and the Reception of Existence from Himself
 
-It may be objected: if God is purely actual, then He cannot change; and if He receives existence from Himself (from His pure act of self-knowing), then He changes Himself. Therefore, we are stuck in a catch 22: the real confermnet of existence to Himself necessarily flows from His self-knowing and that itself violates His nature as existence self-subsisting. 
+It may be objected: if God is purely actual, then He cannot change; and if He receives existence from Himself (from His pure act of self-knowing), then He changes Himself. Therefore, we are stuck in a catch 22: the real conferment of existence to Himself necessarily flows from His self-knowing and that itself violates His nature as existence self-subsisting. 
 
-The strength of this objection subsides once we recognize that not all existential confermnet is causes [change](/definitions/change); but all change is existential confermnet. As noted in "[Existential confermnet and Passive Potency](/posts/existential-confermnet-and-passive-potency)", even creation *ex nihilo* does not imply change but is existential confermnet. In the case of God, the existential confermnet is like that of a glass of water that is full dyed a color receiving more volumeless drops of that color dye: it perfectly receives the dye but does not thereby change color whatsoever--nothing new gets actualized in it but something is received. 
+The strength of this objection subsides once we recognize that not all existential conferment is causes [change](/definitions/change); but all change is existential conferment. As noted in "[Existential conferment and Passive Potency](/posts/existential-conferment-and-passive-potency)", even creation *ex nihilo* does not imply change but is existential conferment. In the case of God, the existential conferment is like that of a glass of water that is full dyed a color receiving more volumeless drops of that color dye: it perfectly receives the dye but does not thereby change color whatsoever--nothing new gets actualized in it but something is received. 
 
-God perfectly [existentially absorbs](/definitions/existential-absorption) existence that is confered from Himself to Himself; which is the most beautiful and perfect confermnet of existence possible. 
+God perfectly [existentially absorbs](/definitions/existential-absorption) existence that is confered from Himself to Himself; which is the most beautiful and perfect conferment of existence possible. 
 
 ### A Hypostatic Union in the Trinity
 
 The hypostatic union between our Lord Jesus between His Divine Substance and human substance was the possession and completion of the same suppositum (viz., Jesus) for two different natures; and this can only occur through God by actively thinking of the Son's human nature as having the subject of the Son (making the subject the same in both cases). What about the unfolding of the Trinity eliminates the possibility of the Father knowing Himself and loving Himself through the same subject (of the Father)? If this is possible, then the unfolding would not necessity a Trinity.
 
-To answer, as seen in "[The Subject of Thought](/posts/the-subject-of-thought)", the unity between His thinking of the reality of an object and His existential confermnet powers causes Him necessarily to confer the existence of a new suppositum simultaneously with understanding the pre-existing one(s) *IFF* He is not already thinking of that entity. Thusly, the incarnation's subject as the Son is subsumed under 'previous' and active contemplation of Himself which would not cause another Person; and the unfolding of the Trinity would cause new Persons because His contemplative act is of something not 'previously' known.
+To answer, as seen in "[The Subject of Thought](/posts/the-subject-of-thought)", the unity between His thinking of the reality of an object and His existential conferment powers causes Him necessarily to confer the existence of a new suppositum simultaneously with understanding the pre-existing one(s) *IFF* He is not already thinking of that entity. Thusly, the incarnation's subject as the Son is subsumed under 'previous' and active contemplation of Himself which would not cause another Person; and the unfolding of the Trinity would cause new Persons because His contemplative act is of something not 'previously' known.
 
 ## Sacred Scriptures
 
