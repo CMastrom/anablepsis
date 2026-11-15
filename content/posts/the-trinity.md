@@ -60,7 +60,7 @@ We can deduce the Trinity from [Classical Theism](/posts/classical-theism):
 **P13:** Therefore, we can say the Knower is the Father and the Known is the Son.  
 **P14:** This identity relation cannot be a property of the Father or the Son because a suppositum does not bear properties: a [substance](/definitions/substance) does.  
 **P15:** Therefore, the paternity and filiation previously described are merely identities marked out by relative opposition (like that of the identity of rock to paper in rock-paper-scissors).  
-**P16:** He only has two [virtual distinctions](/definitions/virtuality) in His Substance to be known: His one faculty and that it is absolutely one (re: "[Divine Self-knowledge](divine-self-knowledge)").  
+**P16:** He only has two [virtual distinctions](/definitions/virtuality) in His Substance to be known: His one faculty and that it is absolutely one (re: "[Divine Self-knowledge](/posts/divine-self-knowledge)").  
 **P17:** By knowing His faculty, He [generates](/definition/generation) the Son (as shown above).  
 **P18:** By knowing His oneness, He contemplates the Son as [perfect](/definitions/goodness).  
 **P19:** Him knowing Himself as perfect is identical to Him willing Himself as perfect (for the same reasons outlined in for **P5** in "[Divine Simplicity, Omniscience, and Pure Act](/posts/divine-simplicity-and-omniscience-in-pure-act)" but for His willing faculties).  
@@ -72,7 +72,7 @@ We can deduce the Trinity from [Classical Theism](/posts/classical-theism):
 **P25:** This existential conferment, though, is from the Father thinking of the Son as perfect; so this is not a new object of thought of Himself in His contemplation.  
 **P26:** Therefore, this is a [spiration](/definitions/spiration) as opposed to a [generation](/definitions/generation).  
 **P27:** This spiration is between the Father and Son as self-love, and is identified as the relation between the Father loving the Son and the Son as loved: this Person which arises out of perfect love is the Holy Spirit.  
-**P28:** Because the mechanism by which the Persons are caused is by self-knowledge and there is nothing else about the Divine Substance to be known (re: "[Divine Self-knowledge](divine-self-knowledge)"), it follows that only these three Persons exist in God.  
+**P28:** Because the mechanism by which the Persons are caused is by self-knowledge and there is nothing else about the Divine Substance to be known (re: "[Divine Self-knowledge](/posts/divine-self-knowledge)"), it follows that only these three Persons exist in God.  
 
 ## Objections
 
